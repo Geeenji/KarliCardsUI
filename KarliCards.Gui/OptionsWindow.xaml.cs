@@ -57,5 +57,9 @@ namespace KarliCards.Gui
             Close();
         }
 
+        private void TabItem_GotFocus(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
